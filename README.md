@@ -1,3 +1,10 @@
+"""
+Jordan Wheeler
+28 January 2023
+Domain: Fitness
+
+"""
+
 # datafun-03-datatypes
 
 > Practice with Python data types, filter(), map(), and list comprehensions
